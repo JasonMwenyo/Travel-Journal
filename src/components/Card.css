@@ -1,0 +1,31 @@
+.card {
+  display: flex;
+  margin-left: 57px;
+  margin-right: 94px;
+}
+
+#card--image {
+  width: 197px;
+  height: 300px;
+  border-radius: 30px;
+  margin-right: 40px;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.description {
+  max-width: 410px;
+}
+
+.push--right {
+  padding-right: 10px;
+}
+
+.links {
+  color: gray;
+  text-decoration: underline;
+}
