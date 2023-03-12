@@ -5,8 +5,8 @@ import Navbar from './components/Navbar';
 import Card from "./components/Card";
 import data from "./assets/data/Data";
 
-function App() {
 
+function App() {
   const cards = data.map(item => {
     return (
       <Card
@@ -24,6 +24,5 @@ function App() {
 
   )
 }
-
 
 export default App

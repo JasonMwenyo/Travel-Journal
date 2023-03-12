@@ -2,6 +2,7 @@
   display: flex;
   margin-left: 57px;
   margin-right: 94px;
+  margin-top: 50px;
 }
 
 #card--image {
@@ -28,4 +29,11 @@
 .links {
   color: gray;
   text-decoration: underline;
+}
+
+.line {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 60px;
+  margin-right: 400px;
 }
